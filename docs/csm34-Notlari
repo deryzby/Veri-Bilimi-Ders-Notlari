@@ -936,6 +936,7 @@ Derin öğrenme, veriden özellik çıkarımını otomatikleştirerek karmaşık
 
 ---
 
+
 # Hierarchical Clustering (Hiyerarşik Kümeleme)
 
 **Hierarchical Clustering**, verileri hiyerarşik bir yapıda kümelere ayıran ve sonuçları bir **dendrogram** (ağaç yapısı) ile görselleştiren bir kümeleme algoritmasıdır. Küçük alt kümeler birleşerek büyük kümeler oluşturur veya büyük kümeler parçalanarak alt kümelere ayrılır.
