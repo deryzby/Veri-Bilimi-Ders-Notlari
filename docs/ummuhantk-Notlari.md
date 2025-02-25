@@ -7,7 +7,7 @@ Veri bilimi, ham verilerden anlamlı bilgiler ve içgörüler çıkarmak için i
 
 ### Temel Bileşenler
 - **İstatistik ve Matematiksel Analiz**
-- **Programlama (Python, R)**
+- **Programlama (Python)**
 - **Makine Öğrenmesi**
 - **Veri Görselleştirme**
 - **Büyük Veri Teknolojileri**
