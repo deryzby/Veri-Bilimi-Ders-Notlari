@@ -1,10 +1,10 @@
 ---
 # Veri Bilimi Ders Notları  
-**2024**  
-**EĞİTMEN:** Mehmet Ali BAYRAM  
-[malibayram20@gmail.com](mailto:malibayram20@gmail.com)  
+2024
+EĞİTMEN: Mehmet Ali BAYRAM  
+malibayram20@gmail.com
 
-**7 Ekim 2024**
+7 Ekim 2024
 
 ---
 
