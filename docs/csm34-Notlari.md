@@ -1,12 +1,4 @@
----
-# Veri Bilimi Ders Notları  
-## 2024  
-
-**EĞİTMEN:** Mehmet Ali BAYRAM  
-malibayram20@gmail.com  
-
-**Tarih:** 7 Ekim 2024  
----
+## Veri Bilimi
 
 ## Analiz vs. Sentez
 
