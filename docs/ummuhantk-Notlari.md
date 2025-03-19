@@ -114,6 +114,7 @@ Sınıflandırılmış veriler (cinsiyet, renk)
 ---
 
 ## Makine Öğrenmesi Türleri ve Modelleri
+
 ### **Gözetimli Öğrenme**
 - Etiketli verilerle eğitim
 - Örnek: Spam e-posta tespiti, hastalık teşhisi
@@ -121,6 +122,71 @@ Sınıflandırılmış veriler (cinsiyet, renk)
 ### **Gözetimsiz Öğrenme**
 - Etiketsiz verilerle çalışma
 - Örnek: Müşteri segmentasyonu, anomali tespiti
+
+
+## Makine Öğrenmesi Modelleri
+
+### Doğrusal Regresyon (Linear Regression)
+**Kullanım Alanı:** Sürekli değerlerin tahmini (örneğin, ev fiyatı tahmini).
+
+**Açıklama:** Bağımlı değişken (hedef) ile bağımsız değişkenler (özellikler) arasında doğrusal bir ilişki kurar.
+
+---
+
+### Lojistik Regresyon (Logistic Regression)
+**Kullanım Alanı:** İkili sınıflandırma problemleri (örneğin, spam tespiti).
+
+**Açıklama:** Olasılık temelli bir modeldir ve sonuçları 0 ile 1 arasında tahmin eder.
+
+---
+
+### Karar Ağaçları (Decision Trees)
+**Kullanım Alanı:** Hem sınıflandırma hem de regresyon problemleri.
+
+**Açıklama:** Veriyi dallara ayırarak karar kuralları oluşturur.
+
+---
+
+### Rastgele Orman (Random Forest)
+**Kullanım Alanı:** Sınıflandırma ve regresyon.
+
+**Açıklama:** Birden fazla karar ağacının birleşiminden oluşur. Overfitting (aşırı öğrenme) riskini azaltır.
+
+---
+
+### Destek Vektör Makineleri (Support Vector Machines - SVM)
+**Kullanım Alanı:** Sınıflandırma ve regresyon.
+
+**Açıklama:** Veriyi en iyi şekilde ayıran bir hiper düzlem bulmaya çalışır.
+
+---
+
+### K-En Yakın Komşu (K-Nearest Neighbors - KNN)
+**Kullanım Alanı:** Sınıflandırma ve regresyon.
+
+**Açıklama:** Bir veri noktasının sınıfını, en yakın komşularının sınıflarına göre belirler.
+
+---
+
+### K-Means Kümeleme (K-Means Clustering)
+**Kullanım Alanı:** Kümeleme problemleri.
+
+**Açıklama:** Veriyi önceden belirlenen sayıda kümeye ayırır.
+
+---
+
+### Yapay Sinir Ağları (Artificial Neural Networks - ANN)
+**Kullanım Alanı:** Karmaşık problemler (örneğin, görüntü tanıma, doğal dil işleme).
+
+**Açıklama:** İnsan beynindeki sinir hücrelerini taklit eder. Derin öğrenme (Deep Learning) modellerinin temelidir.
+
+---
+
+### Gradient Boosting Modelleri (XGBoost, LightGBM, CatBoost)
+**Kullanım Alanı:** Sınıflandırma ve regresyon.
+
+**Açıklama:** Zayıf modelleri birleştirerek güçlü bir model oluşturur.
+
 
 ---
 
